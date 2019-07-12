@@ -13,6 +13,7 @@ Znaczy [pull requestów](https://github.com/xenteros/polski-w-data-science/pulls
 | angielski                   | skróty              | polski                                | link do dyskusji                                                  |
 | :-------------------------- | :------------------ | :------------------------------------ | :---------------------------------------------------------------- |
 | Data Science                | DS                  | danologia                             | [link](https://github.com/xenteros/polski-w-data-science/pull/1)  |
+| Natural Language Processing | NLP                 |                                       | [link](https://github.com/xenteros/polski-w-data-science/pull/2)  |
 
 
 * _n_ - rzeczownik
