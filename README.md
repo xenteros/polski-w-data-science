@@ -10,9 +10,9 @@ Bez ironii, bez korpomowy.
 Zachęcam do współudziału (ang. _contribution_).
 Znaczy [pull requestów](https://github.com/xenteros/polski-w-data-science/pulls), nie tłumacząc na siłę.
 
-| angielski                   | skróty              | polski                                | link do dyskusji  |
-| :-------------------------- | :------------------ | :------------------------------------ | :---------------- |
-| Data Science                | DS                  | danologia                             |                   |
+| angielski                   | skróty              | polski                                | link do dyskusji                                                  |
+| :-------------------------- | :------------------ | :------------------------------------ | :---------------------------------------------------------------- |
+| Data Science                | DS                  | danologia                             | [link](https://github.com/xenteros/polski-w-data-science/pull/1)  |
 
 
 * _n_ - rzeczownik
